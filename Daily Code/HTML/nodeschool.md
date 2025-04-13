@@ -90,7 +90,8 @@ This challenge teaches how to use the six levels of headings with the heading ta
 	<h1> Heading elements </h1>
 	<h2>Summary</h2>
 	<p>
-		Here i put down a body text that includes a paragraph which is supposed to be the summary to check the p tag</p>
+		Here i put down a body text that includes a paragraph
+which is supposed to be the summary to check the p tag</p>
 	<h2>Examples</h2>
 	<h3>Example 1</h3>
 	<p>	
